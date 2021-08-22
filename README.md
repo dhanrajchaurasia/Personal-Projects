@@ -1,6 +1,6 @@
 # Web Developement Projects
-**It contains web developement deprojects made by React.js, Node.js.etc**
-## Projects with React.JS (under Process)
+**It contains web developement deprojects made by JS, React.js, Node.js.etc**
+## Projects with React.JS (Under Process)
 - **Calculator**
   - A simple calulator web application works for decimal (base 10) numbers.
 - **Binary Operator**
